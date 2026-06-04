@@ -1,0 +1,9 @@
+[package]
+name = "nano-mooncake"
+version = "0.1.0"
+edition = "2024"
+description = "A small Rust-native Mooncake core prototype"
+
+[lib]
+name = "nano_mooncake"
+path = "src/lib.rs"
